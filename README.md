@@ -1,4 +1,3 @@
-﻿﻿
 # LeakGAN을 이용한 영화 게시글 제목 생성기  
 * 익스트림무비(http://extmovie.com) 내 '영화수다' 게시글 제목과 유사한 한글 문장을 생성합니다.
 * generator와 classifier의 구동 환경이 다르므로, Anaconda 등의 **가상환경을 필수로 사용해주시기 바랍니다.**  
